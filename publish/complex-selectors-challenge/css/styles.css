@@ -1,0 +1,92 @@
+<head>
+		<title>
+			stylesheet
+		</title>
+		
+</head>
+		{
+		
+	}
+<body>
+header {
+	
+  margin-bottom: 3rem;
+  }
+	{
+
+	}
+	
+p {
+	
+	line-height: 1.6;
+		/*complex selectors 
+		us section p {}
+		or main section {}
+
+		h2 + p {} will select any paragraph after h2
+		
+		p.secondparagraph{} will select any paragraph with secondparagraph tag
+		p .secondparagraph{} with thte space will only select children
+
+		}
+
+
+		*/
+}
+
+.see-all {
+	text-transform: uppercase;
+	font-size: 0.8em;
+}
+h1 {
+	font-size: 2.5rem;
+	font-weight: lighter;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-size: 1rem;
+	font-weight: lighter;
+
+}
+.cast img {
+width:100%;
+
+}
+.cast li {
+width:25%;
+}
+
+h1 {
+	border-top : 1px solid black;
+}
+
+.content nav ul li a{
+	font-weight: bold;
+	color: black;
+
+}
+.cast h2 {
+	font-size: 0.8rem;
+}
+.cast ul li div:first-of-type
+{
+	font-weight: bold;
+}
+
+.cast ul li div:last-of-type
+{
+	font-style: italic;
+}
+#game-of-thrones section.Seasons li:last-of-type:after {
+	content:*;
+}
+
+
+
+
+
+
+
+
+
