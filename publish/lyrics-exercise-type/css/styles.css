@@ -1,69 +1,11 @@
-html{
-
-	font-family: 'Manjari', sans-serif;
-	font-size: 20pt;
-	background-color: purple;
-	color: white;
-}
-
-<body> {
-
-	font-family: Manjari, sans-serif;
-
-	/*font-size: 16px;
-	font-size: 90%;
-	font-size: 1em;*/
-}
-/*bacically says use ariel if not use helvetica, if not use whatever sanserif. put in quotes for bold? 1em is 100% 2em is double that
-
-when in the div its relative to the div, when in the body its rellative to html. but rem means reletive to the html page*/
-h1 {
-	
-	font-weight:bold;
-	font-size:20pt;
-	/*weight, h1 is bold by default, or use numbers 700 is medium 900 is extra bold
-font-size: 2em;
-	font-style: italic;
-	text-decoration: line-through;
-	text-transform: uppercase;
-	u can use italic, oblique etf*/
-}
-h2{
-
-	font-weight:normal;
-	color: white;
-	font-style: italic;
-	font-size:20pt;
-}
-h3{
-	font-weight:normal;
-	color: white;
-	font-weight:bold;
-	
-}
-h4{
-	font-weight:normal;
-	letter-spacing: 20px;
-}
-h5{
-	font-weight:normal;
-	text-transform: uppercase;
-	font-size:20pt;
-}
-
-strong{
-	font-style:oblique;
-	font-weight:normal;
-	text-decoration: underline;
-}
-div {
-	font-size:32px;
-	/*I am a generic block*/
-}
-p {
-	text-indent: 20px;
-	letter-spacing: 20px;
-}
-</body>
-
-/*paragraph of text centeralighned, bad idea*/
+<head>
+		<title>
+			stylesheet
+		</title>
+		
+</head>
+		{
+		
+	}
+<body>
+header {
