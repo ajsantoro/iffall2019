@@ -1,0 +1,42 @@
+h1 {
+	color:black;
+}
+
+div.one {
+	float:right;
+}
+div.two {
+	position: relative;
+	top: 250px;
+	left: 600px;
+}
+ div.three {
+ 	background-color: green;
+ 	position: fixed;
+	top: 0;
+  	right: 0;
+ }	
+}
+aside.num3{
+	background-color: green;
+	position: fixed;
+	top: 0;
+  	right: 0;
+}
+
+aside.num4{
+	background-color: black;
+	position: absolute;
+	z-index: 10px;
+	top: 2310;
+	right: 390px;
+}
+
+aside.num5{
+	background-color: red;
+	position: absolute;
+	z-index: 5px;
+	top: 2300;
+	right: 400px;
+
+}
