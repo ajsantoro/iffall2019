@@ -1,0 +1,106 @@
+a#btn_adidas img{
+			 
+    		width:100px; /* wow works! */
+   		 	height: auto;
+				
+			}
+a#btn_adidas img:hover{
+			 
+    		width:200px; /* wow works! */
+   		 	height: auto;
+				
+			}
+
+			a#btn_adidas {
+				display: block;
+				margin: auto;
+				margin-top: 50px;
+				margin-left: 0px;
+				
+			}
+
+a#btn_armor img{
+			 
+    		width:100px; /* wow works! */
+   		 	height: auto;
+			}
+
+
+a#btn_geo img{
+			 
+    		width:200px; /* wow works! */
+   		 	height: auto;
+   		 }
+
+a#btn_hist img{
+			 
+    		width:230px; /* wow works! */
+   		 	height: auto;
+   		 }
+
+a#btn_animal img{
+			 
+    		width:230px; /* wow works! */
+   		 	height: auto;
+   		 }
+
+a#btn_wings img{
+			margin-top: 50px;
+    		width:270px; /* wow works! */
+   		 	height: auto;
+   		 }
+
+a#btn_nasa img{
+			margin-top: 50px;
+    		width:150px; /* wow works! */
+   		 	height: auto;
+   		 }
+
+a#btn_army img{
+			margin-top: 5px;
+    		width: 200px; /* wow works! */
+   		 	height: auto;
+   		 }
+a#btn_green img{
+			margin-top: 5px;
+    		width: 200px; /* wow works! */
+   		 	height: auto;
+   		 }
+a#btn_nf img{
+			margin-top: 5px;
+    		width: 150px; /* wow works! */
+   		 	height: auto;
+   		 }
+a#btn_google img{
+			margin-top: 100px;
+    		width: 150px; /* wow works! */
+   		 	height: auto;
+   		 }
+a#btn_bing img{
+			margin-top: 100px;
+    		width: 150px; /* wow works! */
+   		 	height: auto;
+   		 }
+a#btn_target img{
+			margin-top: 100px;
+    		width: 150px; /* wow works! */
+   		 	height: auto;
+   		 }
+
+a#btn_ge img{
+			margin-top: 100px;
+    		width: 150px; /* wow works! */
+   		 	height: auto;
+   		 }
+a#btn_tesla img{
+			margin-top: 100px;
+    		width: 150px; /* wow works! */
+   		 	height: auto;
+   		 }
+
+
+
+
+
+
+
