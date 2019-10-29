@@ -1,0 +1,75 @@
+
+div.A{
+	background: url(https://www.melskitchencafe.com/wp-content/uploads/white-chicken-enchiladas4.jpg);
+	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the */	
+	margin-top: auto;
+	margin-bottom: auto;
+  	height: 600px;
+  	width: auto;
+}
+
+div.B{
+	background: url(https://hip2save.com/wp-content/uploads/2017/05/sour-cream-chicken-enchiladas-1.jpg?resize=1024%2C538&strip=all);
+	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the */	
+	margin-top: auto;
+	margin-bottom: auto;
+  	height: 500px;
+  	width: auto;
+	
+}
+
+div.C{
+	background: url(https://www.wikihow.com/images/thumb/f/f1/Make-a-Simple-Cheese-Sauce-Step-1-Version-4.jpg/aid488856-v4-728px-Make-a-Simple-Cheese-Sauce-Step-1-Version-4.jpg);
+	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the */	
+	margin-top: auto;
+	margin-bottom: auto;
+  	height: 500px;
+  	width: auto;
+	
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 400%;
+	color: white;
+	text-align: center;
+	background-color: rgb(230, 153, 0, 0.8);
+	margin-top: -24%;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+img.chicken {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+div.header {
+	text-align:center;
+	font-size: 40px;
+  	padding-top: 6%;
+  	padding-bottom: 6%;
+  	color: rgb(230, 153, 0);
+  	
+}
+
+div.subheader {
+	color: 	rgb(45, 179, 0);
+
+}
+
+div.bod {
+	padding-left: 2%;
+	padding-right: 2%;
+	font-size: 16px;
+}
+
+
+/*font-family: 'Pacifico', cursive;
+font-family: 'Roboto', sans-serif;
