@@ -1,0 +1,112 @@
+a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+}
+#A {
+	position: fixed;
+	top: -50%;
+	left: -50%;
+	width: 200%;
+	height: 200%;
+	z-index: -10;
+}
+
+#A img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+  z-index: -10;
+}
+
+div.text {
+  font-family: 'Merriweather', serif;
+  z-index: 10;
+  color: white;
+  text-align: left;
+  position: fixed;
+  bottom: 2%;
+  left: 2%;
+  max-width: 60%;
+  background-color: rgba(100, 100, 100, 0.6);
+  font-size: 35px;
+
+}
+div.text2 {
+  font-family: 'Merriweather', serif;
+  z-index: 10;
+  color: white;
+  text-align: left;
+  position: fixed;
+  bottom: 2%;
+  left: 2%;
+  max-width: 60%;
+  background-color: rgba(100, 100, 100, 0.6);
+  font-size: 35px;
+
+}
+
+div.name {
+  font-family: 'Merriweather', serif;
+  z-index: 10;
+  color: white;
+  font-size: 16px;
+  text-align: right;
+  position: fixed;
+  bottom: 2%;
+  right: 2%;
+  background-color: rgba(100, 100, 100, 0.6);
+
+}
+div.name2 {
+  font-family: 'Merriweather', serif;
+  z-index: 10;
+  color: white;
+  font-size: 16px;
+  text-align: right;
+  position: fixed;
+  bottom: 2%;
+  right: 2%;
+  background-color: rgba(100, 100, 100, 0.6);
+
+}
+
+@media (max-width: 600px) {
+	
+div.text {
+		font-size: 20px;
+	}
+}
+
+div.text2 {
+		font-size: 30px;
+	}
+}
+
+@media (min-width: 601px) {
+	
+div.text {
+		font-size: 40px;
+	}
+}
+div.text2 {
+		font-size: 16px;
+	}
+}
+
+
+
+
+
+
+
+
+
